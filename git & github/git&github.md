@@ -11,8 +11,11 @@ ___
 ## Git을 사용하는 방법은 아래의 둘로 나뉘게 됩니다. 
 
   1. 터미널에 명령어를 이용하는 CLI 방식 (ex: gitbash, cmd)
-<img src="https://blog.kakaocdn.net/dn/n1QDr/btqCJlFVXg4/QZCZAKcQXNRkRtxB3vnkoK/img.png" alt="git bash" width="100">
-  1. 소스트리 등의 프로그램을 사용하는 GUI 방식
+<img src="https://blog.kakaocdn.net/dn/n1QDr/btqCJlFVXg4/QZCZAKcQXNRkRtxB3vnkoK/img.png" alt="git bash" width="100"> 
+
+
+ 2. 소스트리 등의 프로그램을 사용하는 GUI 방식
+
 * GUI 사용을 위해 쓰이는 [sourcetree](https://www.sourcetreeapp.com/)
 ___
 
