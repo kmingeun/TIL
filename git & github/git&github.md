@@ -11,8 +11,8 @@ ___
 ## Git을 사용하는 방법은 아래의 둘로 나뉘게 됩니다. 
 
   1. 터미널에 명령어를 이용하는 CLI 방식 (ex: gitbash, cmd)
-![gitbash](https://blog.kakaocdn.net/dn/n1QDr/btqCJlFVXg4/QZCZAKcQXNRkRtxB3vnkoK/img.png)
-  2. 소스트리 등의 프로그램을 사용하는 GUI 방식
+<img src="https://blog.kakaocdn.net/dn/n1QDr/btqCJlFVXg4/QZCZAKcQXNRkRtxB3vnkoK/img.png" alt="git bash" width="100">
+  1. 소스트리 등의 프로그램을 사용하는 GUI 방식
 * GUI 사용을 위해 쓰이는 [sourcetree](https://www.sourcetreeapp.com/)
 ___
 
@@ -38,9 +38,11 @@ ___
 서로 다른 branch를 합치는 두 방식 
 
 1. merge : 두 브랜치를 한 커밋에 이어붙입니다.
-![merge](https://wac-cdn.atlassian.com/dam/jcr:4639eeb8-e417-434a-a3f8-a972277fc66a/02%20Merging%20main%20into%20the%20feature%20branh.svg?cdnVersion=1084) 
+<img src="https://wac-cdn.atlassian.com/dam/jcr:4639eeb8-e417-434a-a3f8-a972277fc66a/02%20Merging%20main%20into%20the%20feature%20branh.svg?cdnVersion=1084" alt="merge" width="300"> 
+
 2. rebase : 브랜치를 다른 브랜치에 이어붙입니다.
-![rebase](https://wac-cdn.atlassian.com/dam/jcr:2908e0e6-f74b-4425-b5d2-f5eca8cfcd99/05%20Rebasing%20the%20main%20branch.svg?cdnVersion=1084)
+<img src="https://wac-cdn.atlassian.com/dam/jcr:2908e0e6-f74b-4425-b5d2-f5eca8cfcd99/05%20Rebasing%20the%20main%20branch.svg?cdnVersion=1084" alt="rebase" width="300">
+
 ___
 
 ## Git 명령어
