@@ -5,5 +5,9 @@
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
 
-* [Git&Github](https://github.com/kmingeun/TIL/blob/main/git%20%26%20github/git%26github.md)  
+* [Git&Github](https://github.com/kmingeun/TIL/blob/main/git%20%26%20github/git%26github.md)
+
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+
+* [HTML](https://github.com/kmingeun/TIL/blob/main/HTML/HTML.md)
 
