@@ -11,3 +11,6 @@
 
 * [HTML](https://github.com/kmingeun/TIL/blob/main/HTML/HTML.md)
 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+
+* [JAVASCRIPT](https://github.com/kmingeun/TIL/tree/main/JavaScript)
