@@ -11,6 +11,10 @@
 
 * [HTML](https://github.com/kmingeun/TIL/blob/main/HTML/HTML.md)
 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+
+* [CSS](https://github.com/kmingeun/TIL/tree/main/CSS)
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 
 * [JAVASCRIPT](https://github.com/kmingeun/TIL/tree/main/JavaScript)
