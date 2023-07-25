@@ -1,4 +1,4 @@
-# HTML (Hypertext Markup Language)
+💪 # HTML (Hypertext Markup Language) 💪
 
 ## HTML이란? 
 * HTML은 Hypertext Markup Language의 약자로 웹 페이지를 만드는 데 사용하는 언어입니다. 따라서 우리가 브라우저를 통해 보는 페이지는 모두 HTML로 작성되어 있습니다.
