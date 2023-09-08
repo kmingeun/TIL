@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Geun's%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Profile%20&descAlignY=51&descAlign=62)
+
 
 * ✏ 현재는 프론트엔드 개발 위주로 공부중입니다.
 * 🔑 코딩을 목적이 아닌 수단이라고 생각합니다.
